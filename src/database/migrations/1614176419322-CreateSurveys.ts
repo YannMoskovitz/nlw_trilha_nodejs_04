@@ -17,7 +17,7 @@ export class CreateSurveys1614176419322 implements MigrationInterface {
                         type: "varchar",
                     },
                     {
-                        name: "descrition",
+                        name: "description",
                         type: "varchar",
                     },
                     {
